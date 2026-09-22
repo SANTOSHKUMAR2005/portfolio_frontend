@@ -8,11 +8,11 @@ import Home from './pages/Home';
 import AdminLogin from './pages/AdminLogin';
 import AdminDashboard from './pages/AdminDashboard';
 import ProtectAdminRoute from './components/ProtectAdminRoute';
-import About from './pages/about';
+import About from './pages/About';
 import EducationTimeline from './components/EducationTimeline';
-import Projects from './pages/projects';
+import Projects from './pages/Projects';
 import TechSkills from './pages/TechSkills';
-import Contact from './pages/Contact copy';
+import Contact from './pages/Contact';
 import PageNotFound from './components/PageNotFound'
 
 function App() {
