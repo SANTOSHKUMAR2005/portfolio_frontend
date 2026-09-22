@@ -8,9 +8,9 @@ import {ToastContainer} from 'react-toastify'
 
 createRoot(document.getElementById('root')).render(
   <ContextAPI>
-  <StrictMode>
+  {/* <StrictMode> */}
     <ToastContainer/>
     <App />
-  </StrictMode>,
+  {/* </StrictMode>, */}
   </ContextAPI>
 )

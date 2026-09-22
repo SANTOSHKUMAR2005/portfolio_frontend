@@ -97,7 +97,7 @@ const Contact = () => {
               <FaLocationDot className="text-xl text-background-secondary" />
               <div>
                 <p className="text-xs uppercase tracking-wider text-slate-500">Based in</p>
-                <p className="mt-1 text-sm text-slate-200">Uttar Pradesh, India</p>
+                <p className="mt-1 text-sm text-slate-200">Ayodhya, Uttar Pradesh, India</p>
               </div>
             </div>
           </div>
